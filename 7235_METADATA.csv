@@ -1,0 +1,8 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+Year,Year,Key Identifier,"",0,"","","",Year
+Railway route length,I7235_3,Numeric Variable,Kilometre,1,sum,WeighingRatio_LandArea,Land Area from Census,"Rout is the distance between two points on the Railway irrespective of the number of lines connecting them, whether single line, double line etc in Kilometre"
+Railway running track length,I7235_4,Numeric Variable,Kilometre,1,sum,WeighingRatio_LandArea,Land Area from Census,"The length of all running tracks excluding tracks in sidings, yards and crossings in Kilometre"
+Railway track length,I7235_5,Numeric Variable,Kilometre,1,sum,WeighingRatio_LandArea,Land Area from Census,"The length of all running tracks including tracks in sidings, yards and crossings in Kilometre"
